@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Avatar
+
+  Created by MohammadReza on 2/11/21.
+  
+*/
+
+"error" = "Error";
+"decodeJSON" = "Error in retreive data from server. please try again";
+"emptyData" = "Data fetched from server is empty. please try again";
+"serverError" = "Server error";
+"isNotConnected" = "Can't fetch data. check your connection to Internet";
+
